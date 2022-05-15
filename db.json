@@ -1,0 +1,24 @@
+{
+"animals": [
+{"id":1,"name":"Crow, american","category":"Turquoise"},
+{"id":2,"name":"Lizard, blue-tongued","category":"Crimson"},
+{"id":3,"name":"Least chipmunk","category":"Yellow"},
+{"id":4,"name":"Brazilian otter","category":"Crimson"},
+{"id":5,"name":"Purple moorhen","category":"Goldenrod"},
+{"id":6,"name":"Wallaby, tammar","category":"Orange"},
+{"id":7,"name":"Australian sea lion","category":"Blue"},
+{"id":8,"name":"Cormorant, javanese","category":"Turquoise"},
+{"id":9,"name":"Stilt, black-winged","category":"Maroon"},
+{"id":10,"name":"Wombat, southern hairy-nosed","category":"Turquoise"},
+{"id":11,"name":"Red-knobbed coot","category":"Maroon"},
+{"id":12,"name":"White-headed vulture","category":"Maroon"},
+{"id":13,"name":"Grison","category":"Red"},
+{"id":14,"name":"Southern hairy-nosed wombat","category":"Red"},
+{"id":15,"name":"Rhinoceros, square-lipped","category":"Blue"},
+{"id":16,"name":"Black-tailed tree creeper","category":"Puce"},
+{"id":17,"name":"Cat, kaffir","category":"Blue"},
+{"id":18,"name":"Woodrat (unidentified)","category":"Goldenrod"},
+{"id":19,"name":"Black-tailed deer","category":"Teal"},
+{"id":20,"name":"White-necked raven","category":"Yellow"}
+]
+}
