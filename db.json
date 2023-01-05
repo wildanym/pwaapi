@@ -1,6 +1,6 @@
 {
   "users": [
     { "id": 1, "name": "wildanym", "email": "wildan@gmail.com", "password": "Rahasia123"},
-    { "id": 2, "name": "salty", "email": "you@salty.id", "password": "Rahasia123"},
+    { "id": 2, "name": "salty", "email": "you@salty.id", "password": "Rahasia123"}
   ]
 }
